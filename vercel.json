@@ -17,5 +17,6 @@
             "DELETE"
          ]
       }
-    ]
+    ],
+    "buildCommand": "npm run build && npx prisma generate"
   }
